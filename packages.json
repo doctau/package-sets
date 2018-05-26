@@ -173,6 +173,16 @@
     "repo": "https://github.com/paf31/purescript-behaviors.git",
     "version": "v6.3.0"
   },
+  "aws-lambda-express": {
+    "dependencies": [
+      "console",
+      "eff",
+      "express",
+      "prelude"
+    ],
+    "repo": "https://github.com/lpil/purescript-aws-lambda-express",
+    "version": "v1.0.2"
+  },
   "bifunctors": {
     "dependencies": [
       "control",
